@@ -134,10 +134,15 @@ Performance tracking across:
 
 ## 📁 Repository Structure
 Dataset/
+
 Documentation/
+
 Dashboard Screenshots/
+
 DAX Measures/
+
 PBIX File/
+
 README.md
 
 
@@ -145,6 +150,8 @@ README.md
 
 ## 📷 Dashboard Preview
 ![Summary Dashboard](Dashboard Screenshots/Summary.png)
+
+
 ![Insurance Overview](Dashboard Screenshots/Insurance_Overview.png)
 
 
@@ -174,8 +181,14 @@ If you find this project useful, please consider giving this repository a ⭐.
 ## 🔖 GitHub Topics
 
 powerbi
+
 data-analytics
+
 business-intelligence
+
 insurance-analytics
+
 dax
+
 dashboard
+
