@@ -82,7 +82,6 @@ Developed business measures including:
 - 📉 ROI Calculations  
 - 💼 Expense Monitoring KPIs  
 
-All calculations were organized inside a centralized **Measure Table**.
 
 ---
 
