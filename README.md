@@ -171,6 +171,12 @@ README.md
 Open to opportunities in **Data Analyst / Power BI Analyst** roles.
 
 ---
+## 🤝 Let's Connect
+If you found this project interesting or would like to collaborate:
+
+🔗 LinkedIn: linkedin.com/in/ayush-junghare-52458527a
+
+---
 
 ## ⭐ Support
 If you find this project useful, please consider giving this repository a ⭐.
