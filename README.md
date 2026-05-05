@@ -150,8 +150,15 @@ README.md
 ## 📷 Dashboard Preview
 ![Summary Dashboard](Dashboard Screenshots/Summary.png)
 
-
 ![Insurance Overview](Dashboard Screenshots/Insurance_Overview.png)
+
+![Investment Value vs Maturity Value Dashboard](Dashboard Screenshots/Summary.png)
+
+![Annual Premium vs Protection Amount Dashboard](Dashboard Screenshots/Summary.png)
+
+![Premium Analysis (5–20 Years) Dashboard](Dashboard Screenshots/Summary.png)
+
+![Sales Hierarchy Performance Dashboard](Dashboard Screenshots/Summary.png)
 
 
 ---
