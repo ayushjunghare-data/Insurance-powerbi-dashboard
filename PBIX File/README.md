@@ -11,10 +11,15 @@ This PBIX file contains the complete end-to-end Insurance Analytics Dashboard.
 
 ## Dashboard Pages
 1. Summary
+
 2.Insurance Overview
+
 3.Investment Value vs Maturity Value
+
 4.Annual Premium vs Protection Amount
+
 5.Premium Analysis (5-20 Years)
+
 6.Sales Hierarchy Performance
 
 ## Tools Used
