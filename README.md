@@ -148,17 +148,13 @@ README.md
 ---
 
 ## 📷 Dashboard Preview
-![Summary Dashboard]
-(https://github.com/ayushjunghare-data/Insurance-powerbi-dashboard/blob/main/Dashboard%20Screenshots/Summary.png)
+Summary Dashboard
+![Summary Dashboard](https://github.com/ayushjunghare-data/Insurance-powerbi-dashboard/blob/main/Dashboard%20Screenshots/Summary.png)
 
-![Insurance Overview]
+Insurance Overview
+![Insurance Overview](https://github.com/ayushjunghare-data/Insurance-powerbi-dashboard/blob/main/Dashboard%20Screenshots/Insurance%20Overview.png)
 
-(https://github.com/ayushjunghare-data/Insurance-powerbi-dashboard/blob/main/Dashboard%20Screenshots/Insurance%20Overview.png)
-
-![Investment Value vs Maturity Value Dashboard]
-
-
-(https://github.com/ayushjunghare-data/Insurance-powerbi-dashboard/blob/main/Dashboard%20Screenshots/Investment%20%20VS%20Maturity%20Value.png)
+![Investment Value vs Maturity Value Dashboard](https://github.com/ayushjunghare-data/Insurance-powerbi-dashboard/blob/main/Dashboard%20Screenshots/Investment%20%20VS%20Maturity%20Value.png)
 
 ![Annual Premium vs Protection Amount Dashboard](https://github.com/ayushjunghare-data/Insurance-powerbi-dashboard/blob/main/Dashboard%20Screenshots/Annual%20Premium%20VS%20Protection%20%20Amount.png)
 
