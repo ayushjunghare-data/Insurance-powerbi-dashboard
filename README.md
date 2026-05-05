@@ -157,9 +157,9 @@ README.md
 ---
 
 ## 📂 Project Files
-- 📁 **Dataset** → Source Excel files  
+- 📁 **Dataset** → Source CSV files  
 - 📁 **Documentation** → Business & model explanation  
-- 📁 **DAX Measures** → Calculation logic & Measure Table  
+- 📁 **DAX Measures** →  Measure Table  
 - 📁 **PBIX File** → Complete Power BI dashboard  
 
 ---
